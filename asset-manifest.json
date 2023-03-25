@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YT-DLP-WEBAPP/static/css/main.8d731ac5.css",
+    "main.js": "/YT-DLP-WEBAPP/static/js/main.86883498.js",
+    "index.html": "/YT-DLP-WEBAPP/index.html",
+    "main.8d731ac5.css.map": "/YT-DLP-WEBAPP/static/css/main.8d731ac5.css.map",
+    "main.86883498.js.map": "/YT-DLP-WEBAPP/static/js/main.86883498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d731ac5.css",
+    "static/js/main.86883498.js"
+  ]
+}
